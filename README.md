@@ -1,1 +1,1 @@
-# aicup
+# aicup程式
